@@ -3,8 +3,8 @@
 </h1>
 
 <div align='center'>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dinikolaeva&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dinikolaeva&layout=compact&langs_count=8&hide=java,r&theme=react "/>
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dinikolaeva&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dinikolaeva&layout=compact&langs_count=8&hide=java,r&theme=react "/>
 </div>
 
 <p align='center'>

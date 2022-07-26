@@ -20,7 +20,7 @@
 <a href="https://github.com/dinikolaeva"><img src="https://img.shields.io/github/followers/dinikolaeva?color=0F6D31&style=for-the-badge" /></a> 
 </p>
 
-- 🔭 I’m currently working on becoming a Full Stack Web Developer
-- 🌱 I’m currently learning Software Engineering with C# and Java Script at the Software University
-- 💌 Email: d.nikolaeva.plovdiv@gmail.com
+<p align="center">
+- 💌 Email: d.nikolaeva.plovdiv@gmail.com<br>
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/dilyana-nikolaeva-3bbb26211/">Dilyana Nikolaeva</a>
+</p>

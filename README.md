@@ -15,6 +15,11 @@
   </a>&nbsp;&nbsp;
 </p>
 
+<p align="center">
+<a href="https://github.com/dinikolaeva"><img src="https://komarev.com/ghpvc/?username=dinikolaeva&color=0F6D31&style=for-the-badge"/></a>
+<a href="https://github.com/dinikolaeva"><img src="https://img.shields.io/github/followers/dinikolaeva?color=0F6D31&style=for-the-badge" /></a> 
+</p>
+
 - 🔭 I’m currently working on becoming a Full Stack Web Developer
 - 🌱 I’m currently learning Software Engineering with C# and Java Script at the Software University
 - 💌 Email: d.nikolaeva.plovdiv@gmail.com

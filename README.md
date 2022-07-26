@@ -2,10 +2,12 @@
   Hello there 👋 I'm Dilyana! 💻
 </h1>
 
-<div align='center'>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dinikolaeva&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dinikolaeva&layout=compact&langs_count=8&hide=java,r&theme=react "/>
-</div>
+<p align="center">
+ <img  src="http://github-readme-streak-stats.herokuapp.com?user=dinikolaeva&theme=blue-green&date_format=j%20M%5B%20Y%5D" />
+</p>
+<p align="center">
+ <img  src="https://github-readme-stats.vercel.app/api?username=dinikolaeva&show_icons=true&theme=blue-green" />
+</p>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/dilyana-nikolaeva-3bbb26211/">

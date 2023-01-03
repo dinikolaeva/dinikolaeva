@@ -1,7 +1,6 @@
 <h1 align='center'>
   Hello there 👋 I'm Dilyana! 💻
 </h1>
-
 <p align='center'>
   <a href="https://www.linkedin.com/in/dilyana-nikolaeva-3bbb26211/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
